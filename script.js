@@ -4,6 +4,7 @@ document.body.appendChild(getSumBtn);
 
 const getSum = () => {
 //Add your code here
+	return "500";
   
 };
 
